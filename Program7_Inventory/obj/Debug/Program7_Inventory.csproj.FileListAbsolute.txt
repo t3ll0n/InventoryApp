@@ -1,0 +1,14 @@
+C:\Users\T3L\Dropbox\MSU\CMPS\4143\Program7_Inventory\Program7_Inventory\bin\Debug\Program7_Inventory.exe.config
+C:\Users\T3L\Dropbox\MSU\CMPS\4143\Program7_Inventory\Program7_Inventory\obj\Debug\Program7_Inventory.Properties.Resources.resources
+C:\Users\T3L\Dropbox\MSU\CMPS\4143\Program7_Inventory\Program7_Inventory\obj\Debug\Program7_Inventory.csproj.GenerateResource.Cache
+C:\Users\T3L\Dropbox\MSU\CMPS\4143\Program7_Inventory\Program7_Inventory\bin\Debug\Program7_Inventory.exe
+C:\Users\T3L\Dropbox\MSU\CMPS\4143\Program7_Inventory\Program7_Inventory\bin\Debug\Program7_Inventory.pdb
+C:\Users\T3L\Dropbox\MSU\CMPS\4143\Program7_Inventory\Program7_Inventory\obj\Debug\Program7_Inventory.exe
+C:\Users\T3L\Dropbox\MSU\CMPS\4143\Program7_Inventory\Program7_Inventory\obj\Debug\Program7_Inventory.pdb
+C:\Users\T3L\Dropbox\MSU\CMPS\4143\Program7_Inventory\Program7_Inventory\obj\Debug\Program7_Inventory.LoginScreen_UserControl.resources
+C:\Users\T3L\Dropbox\MSU\CMPS\4143\Program7_Inventory\Program7_Inventory\obj\Debug\Program7_Inventory.LoginForm.resources
+C:\Users\T3L\Dropbox\MSU\CMPS\4143\Program7_Inventory\Program7_Inventory\obj\Debug\Program7_Inventory.AboutForm.resources
+C:\Users\T3L\Dropbox\MSU\CMPS\4143\Program7_Inventory\Program7_Inventory\obj\Debug\Program7_Inventory.EditInventoryForm.resources
+C:\Users\T3L\Dropbox\MSU\CMPS\4143\Program7_Inventory\Program7_Inventory\obj\Debug\Program7_Inventory.InventoryDataForm.resources
+C:\Users\T3L\Dropbox\MSU\CMPS\4143\Program7_Inventory\Program7_Inventory\obj\Debug\Program7_Inventory.csprojResolveAssemblyReference.cache
+C:\Users\T3L\Dropbox\MSU\CMPS\4143\Program7_Inventory\Program7_Inventory\obj\Debug\Program7_Inventory.MSIMainForm.resources
