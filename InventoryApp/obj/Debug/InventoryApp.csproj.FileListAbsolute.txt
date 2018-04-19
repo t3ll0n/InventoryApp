@@ -1,0 +1,15 @@
+C:\Projects\CMPS\Inventory\InventoryApp\bin\Debug\Program7_Inventory.exe.config
+C:\Projects\CMPS\Inventory\InventoryApp\bin\Debug\Program7_Inventory.exe
+C:\Projects\CMPS\Inventory\InventoryApp\bin\Debug\Program7_Inventory.pdb
+C:\Projects\CMPS\Inventory\InventoryApp\obj\Debug\InventoryApp.csprojResolveAssemblyReference.cache
+C:\Projects\CMPS\Inventory\InventoryApp\obj\Debug\Program7_Inventory.AboutForm.resources
+C:\Projects\CMPS\Inventory\InventoryApp\obj\Debug\Program7_Inventory.EditInventoryForm.resources
+C:\Projects\CMPS\Inventory\InventoryApp\obj\Debug\Program7_Inventory.InventoryDataForm.resources
+C:\Projects\CMPS\Inventory\InventoryApp\obj\Debug\Program7_Inventory.LoginForm.resources
+C:\Projects\CMPS\Inventory\InventoryApp\obj\Debug\Program7_Inventory.LoginScreen_UserControl.resources
+C:\Projects\CMPS\Inventory\InventoryApp\obj\Debug\Program7_Inventory.MSIMainForm.resources
+C:\Projects\CMPS\Inventory\InventoryApp\obj\Debug\Program7_Inventory.Properties.Resources.resources
+C:\Projects\CMPS\Inventory\InventoryApp\obj\Debug\InventoryApp.csproj.GenerateResource.cache
+C:\Projects\CMPS\Inventory\InventoryApp\obj\Debug\InventoryApp.csproj.CoreCompileInputs.cache
+C:\Projects\CMPS\Inventory\InventoryApp\obj\Debug\Program7_Inventory.exe
+C:\Projects\CMPS\Inventory\InventoryApp\obj\Debug\Program7_Inventory.pdb
